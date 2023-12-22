@@ -1,1 +1,3 @@
-## 60 Days of DSA
+## 100 Days of DSA
+
+- Learning and solving questions everyday.
